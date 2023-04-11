@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../WebDev/webdev-homework"
+		},
+		{
+			"name": "webdev-homework",
+			"path": "../IntroWebDev/webdev-homework"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webdev-homework"
+	}
+}
